@@ -1,1 +1,0 @@
-ALTER TABLE DOCTOR MODIFY COGNOM varchar(45) not null unique;
