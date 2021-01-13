@@ -1,0 +1,3 @@
+USE hospital;
+SELECT * FROM visita WHERE data BETWEEN '20140301' AND '20140310';
+SELECT * FROM visita WHERE data>='20140301' AND data<='20140310';

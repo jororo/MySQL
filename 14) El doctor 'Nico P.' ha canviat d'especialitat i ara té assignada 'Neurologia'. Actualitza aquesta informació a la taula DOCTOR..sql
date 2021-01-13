@@ -1,0 +1,1 @@
+update DOCTOR set ESPECIALITAT='Neurologia' where cognom='Nico P.';
